@@ -10,7 +10,7 @@
 Wilkinson, L. 1982. An experimental evaluation of multivariate graphical point representations. Human Factors in Computer Systems: Proceedings. Gaithersberg, MD, 202-209. DOI: 10.1145/800049.801781  
 [Jonathan C. McDowell's Astronautics page](https://planet4589.org/space/index.html)
 
-# Media
+## Media
 [Self Destruct Sequence (Alien 1979)](https://www.youtube.com/watch?v=UYWSMe_97i0)  
 [Prometheus | Destroy the Ship](https://www.youtube.com/watch?v=EhF1-njN3sI&t=173s)  
 [Toshiba Airswing](https://www.youtube.com/watch?v=MDUN01U--jE&t=3s)  

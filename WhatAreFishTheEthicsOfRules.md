@@ -10,4 +10,3 @@ Critical Complexity by Paul Cilliers
 
 ## Further reading
 [Responsible tech playbook](https://www.thoughtworks.com/about-us/social-change/responsible-tech-playbook)  
-[]()
