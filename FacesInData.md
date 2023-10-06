@@ -20,7 +20,7 @@ Wilkinson, L. 1982. An experimental evaluation of multivariate graphical point r
 [Self Destruct Sequence (Alien 1979)](https://www.youtube.com/watch?v=UYWSMe_97i0)  
 [Prometheus | Destroy the Ship](https://www.youtube.com/watch?v=EhF1-njN3sI&t=173s)  
 [Toshiba Airswing](https://www.youtube.com/watch?v=MDUN01U--jE&t=3s)  
-UI concepts and Blindsight renders from [Blindsight a short film by Danil Krivoruchko](https://blindsight.space/)  
+UI concepts and Blindsight renders from [Blindsight a short film by Danil Krivoruchko](https://myshli.com/project/blindsight)  
 Marbles from ['Vampires Biology and Evolution' by Peter Watts](https://www.youtube.com/watch?v=wEOUaJW05bU)  
 
 ## Further reading
