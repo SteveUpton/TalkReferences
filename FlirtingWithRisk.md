@@ -6,6 +6,8 @@
 ## References
 The Postmodern Condition: A Report on Knowledge by Jean-François Lyotard  
 Developing a language of interactivity through the theory of play by Andrew Polaine  
+Homo Ludens by Johan Huizinga  
+Emergence: The Connected Lives of Ants, Brains, Cities, and Software by Steven Johnson  
 [Etsy Debriefing Facilitation Guide](https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf)  
 
 ## Slides
